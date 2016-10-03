@@ -1,4 +1,5 @@
 <?php 
+//Muy bien
 echo "comienzo de sucession de fibonacci <p>"; 
 $valor1 = 1; 
 $valor2 = 1; 
