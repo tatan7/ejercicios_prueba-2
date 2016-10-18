@@ -1,5 +1,5 @@
 <?php 
- 
+
 $CONTADOR = 0;
 for($NUMERO=1;$NUMERO<=8;$NUMERO++)
 {
@@ -14,7 +14,12 @@ for($NUMERO=1;$NUMERO<=8;$NUMERO++)
 			echo "  0  ";
 		}
 		$CONTADOR++;
-	}
+
+	}Lorem ipsum Cillum ut deserunt incididunt ut ex.
 	$CONTADOR++;	
 	echo "<br>";
+	
 }
+
+
+
